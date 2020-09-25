@@ -1,2 +1,2 @@
-# ArcCW-FAS2
- Firearms: Source port to ArcCW
+# ArcCW FAS:2
+ A port of weapons from Firearms: Source to Arctic's Customizable Weaponry.
